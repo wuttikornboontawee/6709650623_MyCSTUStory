@@ -1,0 +1,77 @@
+@import url(https://fonts.googleapis.com/css?family=ExtraBold);
+@import url(https://fonts.googleapis.com/css?family=Ultra);
+
+body{
+    background-image: url(/resources/BG.jpg );
+    background-repeat: repeat;
+    padding: 10px 15px 20px 25px;;
+}
+.first{font-family:Monospace;
+    font-weight: 0;
+font-size:xx-large;
+
+}
+#me{
+    width: 400px;
+    height: 50%;
+    border: 30px solid #d3c8bf;
+    border-radius: 10px; 
+    padding: 10px 15px 20px 25px;;
+    margin: 10px 15px 20px 25px;;
+}
+.data{ font-family:sans-serif ;
+    font-size: 24pt;
+    margin: 10px 15px 20px 25px;;
+    font-weight: normal;
+    padding: 10px 15px 20px 25px;;
+}
+
+.data2{font-family: sans-serif;
+    color: #fc00a8;
+    font-size: 24pt;
+    margin: 10px 15px 20px 25px;;
+    font-weight: normal;
+    padding: 10px 15px 20px 25px;;
+}
+
+.data3{font-family:sans-serif ;
+    font-size: 24pt;
+    margin: 10px 15px 20px 25px;;
+    font-weight: normal;
+    padding: 10px 15px 20px 25px;
+    
+}
+
+.spotify{text-decoration: double underline;
+         font-size: 24pt;
+         color: green;
+         
+}
+
+
+.poster{
+    background-image: url(/resources/poster.jpg);
+    width: 560 px;
+    height: 720 px;
+    border: 10px solid whitesmoke; 
+            border-radius: 10px; 
+            padding: 10px 15px 20px 25px}
+            
+#Aboutme{ 
+    text-decoration: double underline;
+    font-family: Monospace;
+    font-size: 25pt;
+    padding: auto;
+    color: #f57e24;
+    margin: auto;
+}
+            
+
+.fas{ font-size: 120px;
+    margin: 10px 15px 20px 25px;
+    padding: 10px 15px 20px 25px;
+
+}
+
+
+
