@@ -1,10 +1,11 @@
 @import url(https://fonts.googleapis.com/css?family=ExtraBold);
-@import url(https://fonts.googleapis.com/css?family=Ultra);
+
 
 header {
     background-color: #94928dbb;
     padding: 20px;
     text-align: center;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 }
 
 nav {
@@ -25,9 +26,10 @@ nav ul li {
 }
 
 nav ul li a {
+    font-family: Arial, Helvetica, sans-serif;
     text-decoration: none;
     color: #fff;
-    font-size: 1.1em;
+    font-size: 1.5em;
     transition: color 0.3s ease;
 }
 
@@ -40,7 +42,7 @@ body{
     background-repeat: repeat;
     padding: 10px 15px 20px 25px;;
 }
-.first{font-family:Monospace;
+.first{font-family: Arial, Helvetica, sans-serif;
     font-weight: 0;
 font-size:xx-large;
 
@@ -57,7 +59,7 @@ font-size:xx-large;
     margin-right: auto;
   
 }
-.data{ font-family:sans-serif ;
+.data{ font-family: Arial, Helvetica, sans-serif ;
     font-size: 24pt;
     margin: 10px 15px 20px 25px;;
     font-weight: normal;
@@ -68,7 +70,7 @@ font-size:xx-large;
   
 }
 
-.data2{font-family: sans-serif;
+.data2{font-family: Arial, Helvetica, sans-serif;
     color: #fc00a8;
     font-size: 24pt;
     margin: 10px 15px 20px 25px;;
@@ -80,7 +82,7 @@ font-size:xx-large;
   
 }
 
-.data3{font-family:sans-serif ;
+.data3{font-family:Arial, Helvetica, sans-serif ;
     font-size: 24pt;
     margin: 10px 15px 20px 25px;;
     font-weight: normal;
@@ -93,6 +95,7 @@ font-size:xx-large;
 .spotify{text-decoration: double underline;
          font-size: 24pt;
          color: green;
+         font-family: Arial, Helvetica, sans-serif ;
          
 }
 
@@ -107,11 +110,20 @@ font-size:xx-large;
             
 #Aboutme{ 
     text-decoration: double underline;
-    font-family: Monospace;
+    font-family: Arial, Helvetica, sans-serif ;
     font-size: 25pt;
     padding: auto;
     color: #f57e24;
     margin: auto;
+}
+
+.section{
+    font-family: Arial, Helvetica, sans-serif ;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 1 10 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    padding: 20px;
 }
             
 
@@ -128,5 +140,7 @@ font-size:xx-large;
     height: 100vh;
 }
 
+
+/*my future.html*/
 
 
